@@ -68,8 +68,10 @@ gradlew
 **Team Name:** Infinite Loopers
 
 ### Team Members
+KARTHIKA S
+SHERLIN S
+VASANTHAKUMAR V
 
-Sherlin S 
 
 ---
 
